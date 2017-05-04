@@ -14,7 +14,6 @@
  * limitations under the License.
  */
 
-using System;
 using System.ComponentModel.DataAnnotations;
 using Net.Appclusive.Public.Domain.Control;
 using Net.Appclusive.Public.Engine;
